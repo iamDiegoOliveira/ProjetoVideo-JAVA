@@ -14,7 +14,7 @@ public class App {
 
         Gafanhoto g[] = new Gafanhoto[2];
         g[0] = new Gafanhoto("Diego", 1, "diego", "M", 23);
-        g[1] = new Gafanhoto("Thiago", 0, "Thiago", "M", 15);
+        g[1] = new Gafanhoto("Tiago", 0, "Thiago", "M", 15);
         
         
         Visualizacao vis[] = new Visualizacao[3];
